@@ -6,3 +6,5 @@
 3. call in terminal as you woiuld any script: python, py or python3 + anki_import.py + "DECK NAME"
 
 4. error handling will let you know if anything goes wrong.
+
+   (AnkiConnect addon needed)
